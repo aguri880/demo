@@ -1,0 +1,10 @@
+header .title {
+    text-align: center;
+    color: red;
+}
+
+main .link {
+    text-align: center;
+    border: solid 2px #000;
+    color: #000;
+}
